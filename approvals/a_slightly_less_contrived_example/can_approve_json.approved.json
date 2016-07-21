@@ -1,0 +1,15 @@
+{
+  "first_name": "Bart",
+  "last_name": "Simpson",
+  "birthday": "1989-12-17",
+  "home_address": {
+    "city": "Springfield",
+    "state": "XY",
+    "zip": "55555"
+  },
+  "drivers_license": "EatMyShorts",
+  "ssn": "123456780",
+  "phone1": "1112223333",
+  "phone2": "9998887777",
+  "created_at": "<create_date>"
+}
